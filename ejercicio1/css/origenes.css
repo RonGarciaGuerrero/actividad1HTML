@@ -1,0 +1,117 @@
+header{
+    margin-top: 10px;
+    background-color: rgba(186, 255, 255,0.5);
+    border-radius: 10px;
+    width: 100%;
+    height: 240px;
+}
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(#baffc9,#ffffba,#ffdfba,#ffb3ba);
+}
+article {
+    margin-top: 5%;
+    /* margin-left: 30px;
+    margin-right: 30px; */
+    padding-bottom: 5%;
+    /* background-color: rgb(207, 207, 207); */
+    border-radius: 10px;
+    width: 100%;
+    height: 300px;
+    /* float: left; */
+}
+
+
+.menu {
+    float: left;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+}
+
+
+.encabezado{
+    background-color: black;
+    color: white;
+}
+
+.titulotemas{
+    border-collapse: collapse;
+    /* border-color: 1px solid black; */
+    border:1px solid black;
+    border-radius: 1em;
+    overflow: hidden;
+
+}
+
+th{
+    background: rgb(49, 49, 49);
+    height: 40px;
+    font-size: large;
+}
+td {
+    background: rgb(121, 121, 121);
+    border-bottom: 2px solid white;
+    padding-left: 10px;
+    font-size: small;
+    vertical-align: top;
+     
+  }
+
+/* .tema1 th,.tema1 td{
+    border: 1px solid black;
+} */
+.derechos{
+    margin-top: 60px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    width: 100%;
+    height: 40px;
+    /* vertical-align: middle; */
+    border-radius: 10px;
+    
+}
+
+details{
+    font-size: small;
+}
+.separador{
+    width: 100%;
+    height: 3px;
+    background-color: rgb(186, 255, 201);
+}
+.onlineoffline{
+    margin-top: 10px;
+    
+}
+.anio{
+    float: right;
+}
+.temascolumna {
+    width: 20%;
+    
+}
+
+.Mensaje{
+    width: 80%;
+}
+.vistascolumna{
+    width: 5%;
+}
+.ultmenscolumna{
+    width: 20%;
+}
+.icono{
+    width: 5%;
+}
